@@ -1,0 +1,1 @@
+create table Mythfits (id varchar(40) not null, age integer, description varchar(255), goodevil varchar(255), lawchaos varchar(255), name varchar(255), profile_image_uri varchar(255), species varchar(255), thumb_image_uri varchar(255), primary key (id));
